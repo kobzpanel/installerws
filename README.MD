@@ -32,7 +32,7 @@ Like other VPN this app just bypass network traffic like tcp,udp including dns. 
 # apt install git
 ```
 ##### Fedora / CentOS / RHELL / other RedHat Based
-```bash
+
 # yum update
 # yum install git
 ```
